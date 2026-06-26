@@ -6,3 +6,7 @@ PATHの中⾝を1⾏ずつ表⽰します。
 ## originalalias
 alias alias lpw='ls -l;pwd;whoami'
 
+今日も今日とてLinux
+
+検索するコマンド
+find . -type d -name ".git"
