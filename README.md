@@ -10,3 +10,6 @@ alias alias lpw='ls -l;pwd;whoami'
 
 検索するコマンド
 find . -type d -name ".git"
+
+6月26日
+httpd , firewalldを起動させたり、停止させたりした。
